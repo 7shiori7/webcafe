@@ -61,6 +61,7 @@ header h1 {
 
 }
 .flexbox {
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -82,8 +83,14 @@ header h1 {
 
 .menu {
     background-color: #E4E0DD;
-    padding: 0 18% 5% 18%;
+    padding: 5% 18% 5% 18%;
 }
+
+h3 {
+    margin: 0;
+    font-family: "PT Serif";
+    font-size: 20px;
+    
 .list {
     font-size: 10px;
     line-height: 40px;
