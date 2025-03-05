@@ -61,6 +61,7 @@ header h1 {
 
 }
 .flexbox {
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -137,10 +138,10 @@ footer {
 }
 footer h6 {
     position: absolute;
-    padding: 30px;
-    width: 1250px;
+    padding: 20px;
+    width: 920px;
     background-color: rgb(104, 109, 118,0.5);
-    bottom: -10px;
+    bottom: -20px;
     color: #fff;
     letter-spacing: 1px;
 }
