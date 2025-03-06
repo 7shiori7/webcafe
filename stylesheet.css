@@ -138,8 +138,9 @@ footer {
     height: 550px;
 }
 footer h6 {
+    margin: 0;
     position: absolute;
-    padding: 20px;
+    padding: 30px;
     width: 100%;
     background-color: rgb(104, 109, 118,0.5);
     bottom: 0px;
