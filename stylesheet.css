@@ -15,6 +15,7 @@ img {
 h3 {
     font-family: "PT Serif";
     font-size: 20px;
+    margin: 0;
 }
 h6 {
     font-family: "Sawarabi Gothic";
@@ -87,8 +88,6 @@ header h1 {
     padding: 0 18% 5% 18%;
 }
 
-.menu h3 {
-    margin: 0;
 }
 
 .list {
