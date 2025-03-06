@@ -37,6 +37,7 @@ header {
     background-position: left 70%;
 }
 header h1 {
+    margin: 0;
     font-size: 80px;
     font-family: "Inter";
     color: #fff;
