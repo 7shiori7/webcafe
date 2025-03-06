@@ -66,21 +66,19 @@ header h1 {
     margin: 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
     padding: 5% 15%;
+    align-content: stretch;
+    align-items: flex-start;
+    justify-content: space-around;
 }
 .flexbox li {
-    width: 33%;
-    padding: 5px;
+    width: 31%;
+    padding: 1%;
     list-style: none;
 }
 .item1 {
     object-fit: fill;
-    flex-basis: 67%;
-}
-.item1 img {
-    width: 70%;
-    height: 372px;
+    flex-basis: 62.5%;
 }
 
 .menu {
