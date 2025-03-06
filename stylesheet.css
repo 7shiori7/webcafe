@@ -142,7 +142,7 @@ footer h6 {
     padding: 20px;
     width: 100%;
     background-color: rgb(104, 109, 118,0.5);
-    bottom: -10px;
+    bottom: 0px;
     color: #fff;
     letter-spacing: 1px;
 }
